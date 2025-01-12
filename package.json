@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Maubinyaachi/yolo-Microservice/issues"
   },
-  "homepage": "https://github.com/Maubinyaachi/yolo-Microservice#readme"
+  "homepage": "https://github.com/Maubinyaachi/yolo-Microservice#readme",
+  "dependencies": {
+    "chai": "^5.1.2",
+    "macho": "^1.5.0"
+  }
 }
