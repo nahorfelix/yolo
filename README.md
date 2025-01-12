@@ -26,5 +26,15 @@ docker-compose up --build
 
   # commits 
 
+ #stage _two 
+ Create a New Branch and Directory
+   # Checkout to a New Branch:
+    git checkout -b Stage_two
+# Create a New Directory: Navigate to the root of the stage-1-Ansible-root directory and create a folder named after the new branch:
+  mkdir stage_two
+  cd stage_two
+ cd stage _two and write the code 
+ 
+
 
 
