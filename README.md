@@ -35,6 +35,6 @@ docker-compose up --build
   cd stage_two
  cd stage _two and write the code 
  
-
+run the entire code
 
 
