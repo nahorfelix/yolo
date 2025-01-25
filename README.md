@@ -36,5 +36,4 @@ docker-compose up --build
  cd stage _two and write the code 
  
 run the entire code
-
-
+#  my GCP was not working to provide a link , it failed billing 
